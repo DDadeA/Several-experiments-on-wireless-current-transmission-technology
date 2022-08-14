@@ -1,4 +1,3 @@
-# Several-experiments-on-wireless-current-transmission-technology
 무선 전류 전송 기술에 대한 여러 실험
 =========================
 by 정연호, 하성욱
